@@ -10,7 +10,8 @@
 * 1x Led 5mm
 * 1x Widerstand 1/4W 100Ohm
 * 1x Widerstand 1/4W 4,7k Ohm
-* 2x AKL 057-03 Anschlussklemme, 3-pol, Ø 2 mm, RM 5,08
+* 1x AKL 057-03 Anschlussklemme, 3-pol, alternativ 1x WAGO 250-503
+* 2x AKL 057-02 Anschlussklemme, 2-pol, alternativ 1x WAGO 250-504
 
 
 [Software](https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Dim1PWM-CV)
