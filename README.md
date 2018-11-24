@@ -16,8 +16,8 @@
 
 [Software](https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Dim1PWM-CV)
 
-##hal.activity.savePower<Idle<true> >(hal);
-##sollte man aus dem Sketch entfernen.
+## hal.activity.savePower<Idle<true> >(hal);
+## sollte man aus dem Sketch entfernen.
 
 
 
