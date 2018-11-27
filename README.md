@@ -14,6 +14,7 @@
 * 1x AKL 057-03 Anschlussklemme, 3-pol, alternativ 1x WAGO 250-503
 * 2x AKL 057-02 Anschlussklemme, 2-pol, alternativ 1x WAGO 250-504
 
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
 [Software](https://github.com/pa-pa/AskSinPP/tree/master/examples/HM-LC-Dim1PWM-CV)
 
