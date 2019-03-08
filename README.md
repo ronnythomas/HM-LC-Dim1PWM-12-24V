@@ -1,10 +1,10 @@
-# HM-LC-Dim1PWM 12-24V
-# 1 Fach Dimmer 12-24V Spannung
+# HM-LC-Dim1PWM 12V
+# 1 Fach Dimmer 12V Spannung
 
-## benötigte Hardware
+## benÃ¶tigte Hardware
 * 1x Arduino Pro Mini **ATmega328P (3.3V/8MHz)**
 * 1x CC1101 Funkmodul **(868 MHz)**
-* 1x FTDI Adapter (wird nur zum Flashen benötigt)
+* 1x FTDI Adapter (wird nur zum Flashen benÃ¶tigt)
 * 1x L78L05ACZ
 * 1x Taster 6x6
 * 1x Led 5mm
