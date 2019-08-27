@@ -9,6 +9,7 @@
 * 1x Taster 6x6
 * 1x Led 5mm
 * 1x Widerstand 1/4W 330Ohm
+* 1x Widerstand 1/4W 100Ohm
 * 1x Widerstand 1/4W 4,7k Ohm
 * 1x Mosfet IRLZ44N 
 * 1x ggf. Kühlkörper für mosfet
